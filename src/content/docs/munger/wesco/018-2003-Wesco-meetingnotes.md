@@ -10,7 +10,7 @@ template: splash
 
 <script>
 const contentEl = document.getElementById('letter-content');
-fetch('/external/munger/wesco/2003-Wesco-问答.html')
+fetch('/value-investment-library/external/munger/wesco/2003-Wesco-问答.html')
   .then(r => r.text())
   .then(html => {
     let body = html.match(/<body>([\s\S]*?)<\/body>/)?.[1] || html;
