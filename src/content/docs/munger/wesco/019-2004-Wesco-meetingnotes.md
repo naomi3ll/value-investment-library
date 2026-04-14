@@ -4,7 +4,7 @@ description: "2004年查理·芒格在Wesco金融公司股东会的问答记录"
 template: splash
 ---
 
-<a href="/munger/" style="display: inline-block; margin-bottom: 1rem; color: var(--sl-color-accent);">← 返回芒格专区</a>
+<a href="/value-investment-library/munger/" style="display: inline-block; margin-bottom: 1rem; color: var(--sl-color-accent);">← 返回芒格专区</a>
 
 <div id="letter-content">加载中...</div>
 
