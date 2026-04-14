@@ -15,4 +15,4 @@ description: 关于理性与复利
 
 ### 联系方式
 
-GitHub: https://github.com/naomi-yin/value-investment-library
+GitHub: https://github.com/naomi3ll/value-investment-library

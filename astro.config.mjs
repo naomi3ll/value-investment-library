@@ -23,7 +23,7 @@ export default defineConfig({
 				{ tag: 'link', rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
 			],
 			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/naomi-yin/value-investment-library' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/naomi3ll/value-investment-library' },
 			],
 sidebar: [
 				{
