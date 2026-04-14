@@ -4,8 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://naomi3ll.github.io/value-investment-library',
-	base: '/value-investment-library',
+	site: 'https://naomi3ll.github.io/buffett',
+	base: '/',
 	integrations: [
 		starlight({
 			customCss: ['./src/styles/custom.css'],
